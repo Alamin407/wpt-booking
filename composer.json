@@ -1,0 +1,16 @@
+{
+    "name": "bdcalling/wpt-booking",
+    "description": "A new booking plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "MD AL AMIN ISLAM"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4" : {"Inc\\": "./inc"}
+    }
+}
